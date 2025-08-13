@@ -6,7 +6,7 @@ I have updated this to migrate to **Pumpswap** so can charge bundling on **Pumps
 
 ## Contact
 
-For more details or need help, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
+For more details or need help, contact here: [Telegram](https://t.me/cryptocooker0510) | [Twitter](https://x.com/CryptoCookerDev)
 
 ## Pumpfun - Pumpswap Migration bot TX
 
